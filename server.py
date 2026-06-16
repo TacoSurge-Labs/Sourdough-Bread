@@ -1,5 +1,5 @@
 from flask import Flask, Response, send_file
-from mss import mss
+from mss import MSS
 from PIL import Image
 import io
 import threading
@@ -108,7 +108,7 @@ setup()
 def capture_loop():
     global latest_frame
 
-    with mss() as sct:
+    with MSS() as sct:
         monitor = sct.monitors[1]
 
         while True:
