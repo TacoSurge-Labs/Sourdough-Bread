@@ -11,7 +11,8 @@ Double click server.py and set your config.
 It will show you IP address, and go to this address on your weak browser (case sensitive):
 http://your.ip.is.here/
 
-Now, you can run Fortnite on a browser that's old enough to be in a museum.
+Add to home screen for easier access.
+Now, you can run Fortnite on a browser that might be older than you.
 
 By the way, do you want to know the reason behind our name? Search up [Xbox Logo Sourdough Bread Comparison](https://www.google.com/search?q=Xbox+Logo+Sourdough+Bread+Comparison&sca_esv=e46683753607c2b3&rlz=1C1HKFL_enUS1210US1211&biw=1536&bih=730&sxsrf=ANbL-n7lAduofUnKabd5EplJrcGnsoU8uQ%3A1781569184642&ei=oJYwasTuJtWX5OMPvYTzgQk&ved=0ahUKEwjEvpKzvoqVAxXVC3kGHT3CPJAQ4dUDCBI&uact=5&oq=Xbox+Logo+Sourdough+Bread+Comparison&gs_lp=Egxnd3Mtd2l6LXNlcnAiJFhib3ggTG9nbyBTb3VyZG91Z2ggQnJlYWQgQ29tcGFyaXNvbjIEECMYJzIGEAAYFhgeMgsQABiABBiKBRiGAzILEAAYgAQYigUYhgMyCxAAGIAEGIoFGIYDMgsQABiABBiKBRiGAzIIEAAYgAQYogQyCBAAGIkFGKIESKxKUABYr0dwAHgBkAEAmAGKAaAB9xyqAQUxOC4xOLgBA8gBAPgBAZgCJKAC2x7CAgoQIxiABBiKBRgnwgIQECMY8AUYyQIYgAQYigUYJ8ICChAAGIAEGIoFGEPCAgsQABiABBiKBRiRAsICEBAAGIAEGIoFGEMYsQMYgwHCAg0QLhiABBiKBRhDGOUEwgIQEAAYgAQYFBiHAhixAxiDAcICCBAAGIAEGLEDwgILEAAYgAQYsQMYgwHCAhAQIxjJAhjwBRiABBiKBRgnwgINEAAYgAQYFBiHAhixA8ICDRAAGIAEGIoFGEMYsQPCAg4QABiABBiKBRixAxiDAcICBRAAGIAEwgIKEAAYgAQYFBiHAsICDBAAGIAEGAoYCxixA8ICCBAAGBYYHhgKwgIFEAAY7wXCAgcQABiABBgNwgIIEAAYBRgeGA3CAggQABgIGB4YDZgDAJIHBTEzLjIzoAfVmgKyBwUxMy4yM7gH2x7CBwgwLjUuMzAuMcgHpQGACAE&sclient=gws-wiz-serp).
 
